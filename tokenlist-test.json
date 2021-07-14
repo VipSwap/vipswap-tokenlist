@@ -46,11 +46,28 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/VipSwap/vipswap-tokenlist/master/assets/ETH.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x48df6F39B564E3b509ccCc49e6aF165d4B559C4f",
+      "name": "EVERGREEN",
+      "symbol": "EVERGREEN",
+      "decimals": 18,
+      "logoURI": "https://bpool.vipswap.org/tokenIcon/Evergreen.png"
+    },
+
+    {
+      "chainId": 2048,
+      "address": "0x84ba6e1be18d5531794fe40ab2a84eae86c5f46b",
+      "name": "VIP",
+      "symbol": "VIP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/VipSwap/vipswap-tokenlist/master/assets/VIP.png"
     }
   ],
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 3
+    "patch": 4
   }
 }
