@@ -77,7 +77,7 @@
 
     {
       "chainId": 2048,
-      "address": "0x84ba6e1be18d5531794fe40ab2a84eae86c5f46b",
+      "address": "0xe87bbed21f342262498f28790ddc11c7bab5efea",
       "name": "VIP",
       "symbol": "VIP",
       "decimals": 18,
@@ -89,6 +89,6 @@
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 2
+    "patch": 3
   }
 }
